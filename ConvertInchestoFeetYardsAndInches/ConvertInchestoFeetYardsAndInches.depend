@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612100667 source:g:\programming\c++\c++ solved programs\basics\convertinchestofeetyardsandinches\main.cpp
+	<iostream>
+	<conio.h>
+
